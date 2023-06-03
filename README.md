@@ -19,9 +19,17 @@ block explored - https://mumbai.polygonscan.com/
 
 <H1>STEP 2</H1>
 import new token
+
+
 contact address - 0x7F7D2cF359938Ca6d58D0A05b7D3aF591b1ac885
+
+
 symbol - SIU
+
+
 decimal - 18
+
+
 Save and you're done
 
 text me on twitter to send you some sapainu tokens😂
